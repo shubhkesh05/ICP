@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/shubhkesh05/ICP/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/shubhkesh05/ICP/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
