@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhkesh05/ICP/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
