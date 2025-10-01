@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shubhkesh05/ICP/tree/master/0239-sliding-window-maximum) |
+| [0406-queue-reconstruction-by-height](https://github.com/shubhkesh05/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0406-queue-reconstruction-by-height](https://github.com/shubhkesh05/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shubhkesh05/ICP/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/shubhkesh05/ICP/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
