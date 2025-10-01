@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shubhkesh05/ICP/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/shubhkesh05/ICP/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
