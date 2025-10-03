@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shubhkesh05/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shubhkesh05/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/shubhkesh05/ICP/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhkesh05/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shubhkesh05/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/shubhkesh05/ICP/tree/master/0406-queue-reconstruction-by-height) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
