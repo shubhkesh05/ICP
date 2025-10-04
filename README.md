@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/shubhkesh05/ICP/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/shubhkesh05/ICP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shubhkesh05/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shubhkesh05/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shubhkesh05/ICP/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shubhkesh05/ICP/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/shubhkesh05/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 ## Binary Indexed Tree
