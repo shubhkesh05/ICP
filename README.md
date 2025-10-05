@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
+| [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
+| [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
