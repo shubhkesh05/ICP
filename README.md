@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shubhkesh05/ICP/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/shubhkesh05/ICP/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shubhkesh05/ICP/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/shubhkesh05/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubhkesh05/ICP/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
