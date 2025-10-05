@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/shubhkesh05/ICP/tree/master/0131-palindrome-partitioning) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhkesh05/ICP/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shubhkesh05/ICP/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/shubhkesh05/ICP/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/shubhkesh05/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 ## Binary Indexed Tree
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shubhkesh05/ICP/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/shubhkesh05/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/shubhkesh05/ICP/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
