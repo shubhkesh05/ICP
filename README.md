@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -192,4 +194,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhkesh05/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
