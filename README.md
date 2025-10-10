@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shubhkesh05/ICP/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhkesh05/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/shubhkesh05/ICP/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/shubhkesh05/ICP/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 ## Binary Search
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shubhkesh05/ICP/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shubhkesh05/ICP/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
