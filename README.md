@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhkesh05/ICP/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhkesh05/ICP/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shubhkesh05/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
 ## Linked List
 |  |
 | ------- |
