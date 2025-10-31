@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/shubhkesh05/ICP/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shubhkesh05/ICP/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shubhkesh05/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shubhkesh05/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shubhkesh05/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shubhkesh05/ICP/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
