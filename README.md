@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhkesh05/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/shubhkesh05/ICP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shubhkesh05/ICP/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhkesh05/ICP/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shubhkesh05/ICP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
