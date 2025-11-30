@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/shubhkesh05/ICP/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shubhkesh05/ICP/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhkesh05/ICP/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/ICP/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhkesh05/ICP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhkesh05/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
