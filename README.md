@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
+| [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
@@ -141,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhkesh05/ICP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
+| [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
+| [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 ## Union Find
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
+| [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 ## String
