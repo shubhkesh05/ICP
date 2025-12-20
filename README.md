@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhkesh05/ICP/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
 ## Divide and Conquer
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubhkesh05/ICP/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhkesh05/ICP/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Queue
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 ## String
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhkesh05/ICP/tree/master/0144-binary-tree-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
