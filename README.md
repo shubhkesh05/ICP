@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
+| [2187-minimum-time-to-complete-trips](https://github.com/shubhkesh05/ICP/tree/master/2187-minimum-time-to-complete-trips) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shubhkesh05/ICP/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/shubhkesh05/ICP/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhkesh05/ICP/tree/master/0713-subarray-product-less-than-k) |
+| [2187-minimum-time-to-complete-trips](https://github.com/shubhkesh05/ICP/tree/master/2187-minimum-time-to-complete-trips) |
 ## Greedy
 |  |
 | ------- |
