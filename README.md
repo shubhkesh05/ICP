@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
+| [0997-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/0997-find-the-town-judge) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
+| [0997-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/0997-find-the-town-judge) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 ## Prefix Sum
 |  |
