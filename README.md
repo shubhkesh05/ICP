@@ -148,16 +148,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhkesh05/ICP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shubhkesh05/ICP/tree/master/0547-number-of-provinces) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shubhkesh05/ICP/tree/master/0547-number-of-provinces) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shubhkesh05/ICP/tree/master/0547-number-of-provinces) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shubhkesh05/ICP/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 ## Prefix Sum
