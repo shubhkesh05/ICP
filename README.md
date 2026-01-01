@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shubhkesh05/ICP/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shubhkesh05/ICP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shubhkesh05/ICP/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shubhkesh05/ICP/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shubhkesh05/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shubhkesh05/ICP/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhkesh05/ICP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubhkesh05/ICP/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/shubhkesh05/ICP/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhkesh05/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/shubhkesh05/ICP/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/shubhkesh05/ICP/tree/master/0367-valid-perfect-square) |
