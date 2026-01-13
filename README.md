@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shubhkesh05/ICP/tree/master/2187-minimum-time-to-complete-trips) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shubhkesh05/ICP/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shubhkesh05/ICP/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubhkesh05/ICP/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhkesh05/ICP/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shubhkesh05/ICP/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhkesh05/ICP/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shubhkesh05/ICP/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Topological Sort
 |  |
 | ------- |
