@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhkesh05/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/shubhkesh05/ICP/tree/master/0486-predict-the-winner) |
+| [0575-distribute-candies](https://github.com/shubhkesh05/ICP/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhkesh05/ICP/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhkesh05/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/shubhkesh05/ICP/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0997-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/0997-find-the-town-judge) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
