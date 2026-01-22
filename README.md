@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
+| [1856-maximum-subarray-min-product](https://github.com/shubhkesh05/ICP/tree/master/1856-maximum-subarray-min-product) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shubhkesh05/ICP/tree/master/2187-minimum-time-to-complete-trips) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shubhkesh05/ICP/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/shubhkesh05/ICP/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/shubhkesh05/ICP/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
+| [1856-maximum-subarray-min-product](https://github.com/shubhkesh05/ICP/tree/master/1856-maximum-subarray-min-product) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/ICP/tree/master/0735-asteroid-collision) |
+| [1856-maximum-subarray-min-product](https://github.com/shubhkesh05/ICP/tree/master/1856-maximum-subarray-min-product) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/shubhkesh05/ICP/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Linked List
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/ICP/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/ICP/tree/master/0402-remove-k-digits) |
+| [1856-maximum-subarray-min-product](https://github.com/shubhkesh05/ICP/tree/master/1856-maximum-subarray-min-product) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/shubhkesh05/ICP/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Tree
 |  |
