@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1856-maximum-subarray-min-product](https://github.com/shubhkesh05/ICP/tree/master/1856-maximum-subarray-min-product) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhkesh05/ICP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shubhkesh05/ICP/tree/master/2187-minimum-time-to-complete-trips) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shubhkesh05/ICP/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/shubhkesh05/ICP/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shubhkesh05/ICP/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/shubhkesh05/ICP/tree/master/0838-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhkesh05/ICP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhkesh05/ICP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shubhkesh05/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhkesh05/ICP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/shubhkesh05/ICP/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhkesh05/ICP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
