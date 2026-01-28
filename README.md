@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/0997-find-the-town-judge) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 | [1039-find-the-town-judge](https://github.com/shubhkesh05/ICP/tree/master/1039-find-the-town-judge) |
+| [1200-minimum-absolute-difference](https://github.com/shubhkesh05/ICP/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/shubhkesh05/ICP/tree/master/1590-make-sum-divisible-by-p) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1856-maximum-subarray-min-product](https://github.com/shubhkesh05/ICP/tree/master/1856-maximum-subarray-min-product) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubhkesh05/ICP/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhkesh05/ICP/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/shubhkesh05/ICP/tree/master/0917-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/shubhkesh05/ICP/tree/master/1200-minimum-absolute-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/shubhkesh05/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhkesh05/ICP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
