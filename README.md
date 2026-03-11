@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhkesh05/ICP/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/shubhkesh05/ICP/tree/master/0040-combination-sum-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhkesh05/ICP/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhkesh05/ICP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0088-merge-sorted-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhkesh05/ICP/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shubhkesh05/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhkesh05/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/shubhkesh05/ICP/tree/master/0406-queue-reconstruction-by-height) |
