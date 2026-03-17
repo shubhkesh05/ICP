@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shubhkesh05/ICP/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhkesh05/ICP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shubhkesh05/ICP/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shubhkesh05/ICP/tree/master/0785-is-graph-bipartite) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubhkesh05/ICP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shubhkesh05/ICP/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shubhkesh05/ICP/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shubhkesh05/ICP/tree/master/0785-is-graph-bipartite) |
 | [1036-escape-a-large-maze](https://github.com/shubhkesh05/ICP/tree/master/1036-escape-a-large-maze) |
 ## Union Find
 |  |
@@ -335,9 +337,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/shubhkesh05/ICP/tree/master/0785-is-graph-bipartite) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shubhkesh05/ICP/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shubhkesh05/ICP/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shubhkesh05/ICP/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
